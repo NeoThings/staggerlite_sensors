@@ -28,6 +28,7 @@
     <param name="with_smooth" value="-1" />
     <param name="with_deshadow" value="-1" />
     <param name="with_confidence" value="1"/>
+    <param name="reversed" value="true"/>
     #CUSTOM#
     <param name="error_circle" value="3"/>
     <param name="error_scale" value="0.9"/>
